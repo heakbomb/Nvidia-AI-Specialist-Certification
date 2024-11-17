@@ -132,6 +132,8 @@ https://github.com/heakbomb/Nvidia-AI-Specialist-Certification/blob/main/DarkLab
 
 ![9](https://github.com/user-attachments/assets/3fee01f7-56f5-4912-92c7-b3260c67b309)
 
+---
+
 ## Training results
 
 ![results](https://github.com/user-attachments/assets/a22121b3-391f-4420-aa9a-0dcf744c9fb7)
