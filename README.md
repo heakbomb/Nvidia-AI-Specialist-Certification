@@ -50,6 +50,7 @@ https://www.vapshion.com/vapshion4/download.php
 
 ![%EB%82%B4%EC%9A%A9_%EC%88%98%EC%A0%95_1](https://github.com/user-attachments/assets/566a1bc6-9755-4a27-bdf3-e344777a817f)
 
+https://github.com/heakbomb/Nvidia-AI-Specialist-Certification/blob/main/DarkLabel2.4.zip
 **Unzip the zip file and open the ‘darklabel.yml’ file to add classes for the content to be extracted.**
 
 ## - darklabel.yml
