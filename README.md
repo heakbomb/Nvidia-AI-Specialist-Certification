@@ -32,7 +32,7 @@ There are issues with the system not accurately detecting signs when they are ob
 
 - Traffic signs recognized by artificial intelligence
 
-![%EC%BA%A1%EC%B2%98](https://github.com/user-attachments/assets/9eeb8c08-d485-4b42-a154-de0609ca6955)
+![%EC%BA%A1%EC%B2%98](https://github.com/user-attachments/assets/115201bc-46f9-433f-acff-1744f3537c02)
 
 ## Video Acquisition Method
 
@@ -46,16 +46,15 @@ I recorded the video from inside a moving car.
 
 https://www.vapshion.com/vapshion4/download.php
 
-![640_%EC%9E%90%EB%A5%B4%EA%B8%B0](https://github.com/user-attachments/assets/68bc7ff0-30da-44a8-af9b-3ce8f4251597)
+![640_%EC%9E%90%EB%A5%B4%EA%B8%B0](https://github.com/user-attachments/assets/2b52d418-ca3a-4497-8243-51e3e9a2c77e)
 
-[DarkLabel.zip](https://drive.google.com/file/d/1FZcUJKofjROzEBYMR7yUWmWs4OAhcEfp/view?usp=drive_link)
+![%EB%82%B4%EC%9A%A9_%EC%88%98%EC%A0%95_1](https://github.com/user-attachments/assets/566a1bc6-9755-4a27-bdf3-e344777a817f)
 
 **Unzip the zip file and open the ‘darklabel.yml’ file to add classes for the content to be extracted.**
 
 ## - darklabel.yml
 
-![%EB%82%B4%EC%9A%A9_%EC%88%98%EC%A0%95_1](https://github.com/user-attachments/assets/f8ec7b8a-6888-428c-a681-1c4f996d2108)
-
+![image](https://github.com/user-attachments/assets/230df807-c2cc-4a52-bc36-02d9f50949a2)
 
 
 ```
