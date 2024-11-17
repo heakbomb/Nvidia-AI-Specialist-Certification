@@ -48,15 +48,13 @@ https://www.vapshion.com/vapshion4/download.php
 
 ![640_%EC%9E%90%EB%A5%B4%EA%B8%B0](https://github.com/user-attachments/assets/2b52d418-ca3a-4497-8243-51e3e9a2c77e)
 
-![%EB%82%B4%EC%9A%A9_%EC%88%98%EC%A0%95_1](https://github.com/user-attachments/assets/566a1bc6-9755-4a27-bdf3-e344777a817f)
-
 https://github.com/heakbomb/Nvidia-AI-Specialist-Certification/blob/main/DarkLabel2.4.zip
+
 **Unzip the zip file and open the ‘darklabel.yml’ file to add classes for the content to be extracted.**
 
 ## - darklabel.yml
 
-![image](https://github.com/user-attachments/assets/230df807-c2cc-4a52-bc36-02d9f50949a2)
-
+![%EB%82%B4%EC%9A%A9_%EC%88%98%EC%A0%95_1](https://github.com/user-attachments/assets/6c52bf2c-b512-434f-90d2-9ba505bf0725)
 
 ```
 💡format9:    # pascal voc & imagenet (predefined format]
@@ -68,17 +66,15 @@ https://github.com/heakbomb/Nvidia-AI-Specialist-Certification/blob/main/DarkLab
      classes_set: "sign_classes"      # if not specified, default setting is used
      name: "sign"              # if not specified, "[fmt%d] $data_fmt" is used as default format name
 ```
-     
 
 
-![image](https://github.com/user-attachments/assets/8a6d8084-d835-4cb5-845b-6d018d59f323)
+![image](https://github.com/user-attachments/assets/98903e0d-6c2d-4b39-bc39-fa1cf8e89105)
 
+**Open Video** : Load the desired video or image.
 
-**Open Video: Load the desired video or image.**
+**Open Image Folder** : Load a folder containing multiple images.
 
-**Open Image Folder: Load a folder containing multiple images.**
-
-**0.pascal voc select bar: Specify the formatting style. Here, select the class name you will be labeling.**
+**0.pascal voc select bar** : Specify the formatting style. Here, select the class name you will be labeling.
 
 ## Training video
 
@@ -86,59 +82,59 @@ https://github.com/heakbomb/Nvidia-AI-Specialist-Certification/blob/main/DarkLab
 
 **Click 'Open Video' to select the video to extract.**
 
-![dark](https://github.com/user-attachments/assets/5af6cce2-7166-492c-a906-2c8fbea8aa27)
+![dark](https://github.com/user-attachments/assets/55396612-fbda-46f4-9a08-562d72931e13)
 
 **Click 'as Images..' to convert it to images.**
 
-![image_%EC%9E%90%EB%A5%B4%EA%B8%B0](https://github.com/user-attachments/assets/fb0d9db3-7e42-4cf5-a30b-759438b732cb)
+![image_%EC%9E%90%EB%A5%B4%EA%B8%B0](https://github.com/user-attachments/assets/bd0c84b4-9fd1-482b-adcc-04f305b7897f)
 
 **Load the converted images into DarkLabel.**
 
-![1](https://github.com/user-attachments/assets/02ea7583-66c9-4662-a46e-627a22a11e60)
+![1](https://github.com/user-attachments/assets/da3488ec-a634-4a60-a60d-92bfa1b4b003)
 
 **Check the Box + Label and label 'sign'.**
 
-![2](https://github.com/user-attachments/assets/8e7e52fc-4a27-4fa1-b79f-5ec5942eea77)
+![2](https://github.com/user-attachments/assets/e8d072c8-a504-45b3-9ec3-baacf239c978)
 
 **Click 'GT Save As..' to save the labeled images.**
 
-![3](https://github.com/user-attachments/assets/9c18ad96-8627-4397-9658-7e6e52091a33)
+![3](https://github.com/user-attachments/assets/2790f696-2e67-4b4f-bf86-48c0d2768c1c)
 
 ## Training
 
 **Enable recognition of file paths.**
 
-![1](https://github.com/user-attachments/assets/38502540-1b35-4255-8cb2-1887e8a7e73b)
+![1](https://github.com/user-attachments/assets/1651542f-2ecd-4375-9d23-bc4559390f01)
 
 **Install the necessary files for YOLOv5.**
 
-![2](https://github.com/user-attachments/assets/a7156a0c-81bc-46fb-b913-08058c529b69)
+![2](https://github.com/user-attachments/assets/252ca093-189c-4172-97e3-b8ceea66eca7)
 
 **Create Train and Val folders, and save the image files created with DarkLabel and the labeled files.**
 
-![3](https://github.com/user-attachments/assets/fc7589e5-1259-4e0a-b8b6-c665693d0500)
+![3](https://github.com/user-attachments/assets/1c4c7e09-7a27-4c7e-a40c-402771e97829)
 
 **Create validation data and check the dataset.**
 
-![4](https://github.com/user-attachments/assets/046d3d29-a73f-43ff-8bff-8988e59d0fc2)
+![4](https://github.com/user-attachments/assets/cc42be89-e305-4047-8346-46e024b81d28)
 
 **Begin training.**
 
-![5](https://github.com/user-attachments/assets/cd63be9f-7183-4539-9b0d-bdf4678337ea)
+![5](https://github.com/user-attachments/assets/d064e299-06b4-4755-b5a0-408f1e6b076a)
 
-![6](https://github.com/user-attachments/assets/c67f30b2-14a5-4144-a662-87772d43e814)
+![6](https://github.com/user-attachments/assets/0db675c0-b86b-46a9-911b-ef841cc8d049)
 
-![7](https://github.com/user-attachments/assets/1ca53b74-27b4-45f1-b55d-99e38651b094)
+![7](https://github.com/user-attachments/assets/4b7e5606-3adf-448b-8f47-1c65935f27f9)
 
 **After the training is complete, check the training values through TensorBoard and input the video for validation and run it.**
 
-![8](https://github.com/user-attachments/assets/897091a5-6bb0-4340-a6ec-4cc15f432a03)
+![8](https://github.com/user-attachments/assets/11e76a85-01a5-4282-8dd9-a14a8e625336)
 
-![9](https://github.com/user-attachments/assets/ab62ec86-4a42-401d-b31d-da04d00ee692)
+![9](https://github.com/user-attachments/assets/3fee01f7-56f5-4912-92c7-b3260c67b309)
 
 ## Training results
 
-![results](https://github.com/user-attachments/assets/b7ea41b3-94c0-48d8-9b00-d9c3bae23869)
+![results](https://github.com/user-attachments/assets/a22121b3-391f-4420-aa9a-0dcf744c9fb7)
 
 ## Google Drive YOLOv5 files & validation video
 
