@@ -16,13 +16,13 @@ Recently, the importance of driver assistance systems has been increasing as muc
 
 ---
 
-**This project uses cameras to detect and analyze each traffic sign in real-time through AI, and then relays this information to the driver while they are driving.**
+This project uses cameras to detect and analyze each traffic sign in real-time through AI, and then relays this information to the driver while they are driving.
 
 ## **Proposed idea for enhancements to the project**
 
 ---
 
-**It helps to automatically recognize traffic signs that could be missed in complex road situations, alerting the driver and thus reducing accidents or cases of deviating onto incorrect routes.**
+It helps to automatically recognize traffic signs that could be missed in complex road situations, alerting the driver and thus reducing accidents or cases of deviating onto incorrect routes.
 
 ## **Current limitations**
 
