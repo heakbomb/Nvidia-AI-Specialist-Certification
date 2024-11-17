@@ -57,7 +57,7 @@ https://www.vapshion.com/vapshion4/download.php
 ![%EB%82%B4%EC%9A%A9_%EC%88%98%EC%A0%95_1](https://github.com/user-attachments/assets/f8ec7b8a-6888-428c-a681-1c4f996d2108)
 
 
-<aside>
+
 ```
 💡format9:    # pascal voc & imagenet (predefined format]
      fixed_filetype: 0                 # if specified as true, save setting isn't changeable in GUI
@@ -68,7 +68,8 @@ https://www.vapshion.com/vapshion4/download.php
      classes_set: "sign_classes"      # if not specified, default setting is used
      name: "sign"              # if not specified, "[fmt%d] $data_fmt" is used as default format name
 ```
-</aside>
+     
+
 
 ![image](https://github.com/user-attachments/assets/8a6d8084-d835-4cb5-845b-6d018d59f323)
 
