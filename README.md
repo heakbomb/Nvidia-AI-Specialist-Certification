@@ -58,7 +58,7 @@ https://www.vapshion.com/vapshion4/download.php
 
 
 <aside>
-
+```
 💡format9:    # pascal voc & imagenet (predefined format]
      fixed_filetype: 0                 # if specified as true, save setting isn't changeable in GUI
      data_fmt: [classid, ncx, ncy, nw, nh]
@@ -67,7 +67,7 @@ https://www.vapshion.com/vapshion4/download.php
      delimiter: " "                    # if not spedified, default delimiter(',') is used
      classes_set: "sign_classes"      # if not specified, default setting is used
      name: "sign"              # if not specified, "[fmt%d] $data_fmt" is used as default format name
-
+```
 </aside>
 
 ![image](https://github.com/user-attachments/assets/8a6d8084-d835-4cb5-845b-6d018d59f323)
