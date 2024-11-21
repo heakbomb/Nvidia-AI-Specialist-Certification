@@ -140,6 +140,5 @@ https://github.com/heakbomb/Nvidia-AI-Specialist-Certification/blob/main/DarkLab
 
 ## Google Drive YOLOv5 files & validation video
 
-[https://drive.google.com/drive/folders/182YmCgO1SYBkHNi2efWMQp0M6wlRHCx_?usp=sharing](https://drive.google.com/drive/folders/182YmCgO1SYBkHNi2efWMQp0M6wlRHCx_?usp=sharing)
 
 https://drive.google.com/drive/folders/182YmCgO1SYBkHNi2efWMQp0M6wlRHCx_?usp=sharing
